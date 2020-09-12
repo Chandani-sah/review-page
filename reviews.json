@@ -1,0 +1,21 @@
+{
+  "reviews": [
+    { "id": 1,
+      "name": "Rahul Yadav", 
+      "year": "Third Year Student",
+      "comment":"Good Average Goooooooood Efficient"
+    },
+    { "id": 2,
+      "name": "Sonali Malhotra", 
+      "year": "Final Year Student",
+      "comment":"Good Average Goooooooood Efficient"
+    },
+    { "id": 3,
+      "name": "Vikram Jadhav", 
+      "year": "Final Year Student",
+      "comment":"Good Average Goooooooood Efficient"
+    }
+    
+  ]
+  
+}
